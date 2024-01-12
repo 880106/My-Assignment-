@@ -1,0 +1,9 @@
+C:\Users\APHELELE\Downloads\Ont Project 2023\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\APHELELE\Downloads\Ont Project 2023\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\APHELELE\Downloads\Ont Project 2023\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\APHELELE\Downloads\Ont Project 2023\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\APHELELE\Downloads\Ont Project 2023\BusinessLogicLayer\bin\Debug\Data Access Layer.dll
+C:\Users\APHELELE\Downloads\Ont Project 2023\BusinessLogicLayer\bin\Debug\Data Access Layer.pdb
+C:\Users\APHELELE\Downloads\Ont Project 2023\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\APHELELE\Downloads\Ont Project 2023\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\APHELELE\Downloads\Ont Project 2023\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

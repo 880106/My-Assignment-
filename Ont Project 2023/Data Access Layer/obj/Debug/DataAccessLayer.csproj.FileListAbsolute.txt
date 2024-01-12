@@ -1,0 +1,9 @@
+C:\Users\APHELELE\Downloads\Ont Project 2023\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\APHELELE\Downloads\Ont Project 2023\Data Access Layer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\APHELELE\Downloads\Ont Project 2023\Data Access Layer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\APHELELE\Downloads\Ont Project 2023\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\APHELELE\Downloads\Ont Project 2023\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\APHELELE\Downloads\Ont Project 2023\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\APHELELE\Downloads\Ont Project 2023\Data Access Layer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\APHELELE\Downloads\Ont Project 2023\Data Access Layer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\APHELELE\Downloads\Ont Project 2023\Data Access Layer\obj\Debug\DataAccessLayer.csproj.CopyComplete

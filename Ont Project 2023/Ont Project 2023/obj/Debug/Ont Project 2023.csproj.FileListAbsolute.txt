@@ -1,0 +1,33 @@
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\bin\Debug\Ont Project 2023.exe.config
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\bin\Debug\Ont Project 2023.exe
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\bin\Debug\Ont Project 2023.pdb
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont Project 2023.csproj.AssemblyReference.cache
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.LoginForm.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Properties.Resources.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont Project 2023.csproj.GenerateResource.cache
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont Project 2023.csproj.CoreCompileInputs.cache
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont Project 2023.exe
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont Project 2023.pdb
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlUser.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\bin\Debug\Controls\UserControlUser.resx
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\bin\Debug\Controls\UserControlUser.cs
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\bin\Debug\Controls\UserControlUser.Designer.cs
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlModules.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlLecturerModules.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlStudentsModules.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.AdminForm.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlReporting.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.FrmLecturer.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlAssessment.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlAssessmentType.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlReportingAssessment.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.FrmStudent.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlStudentManagesAssessment.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlStudentReporting.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\bin\Debug\Data Access Layer.pdb
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont Project 2023.csproj.CopyComplete
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\bin\Debug\BusinessLogicLayer.dll
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\bin\Debug\Data Access Layer.dll
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlModuleType.resources
+C:\Users\APHELELE\Downloads\Ont Project 2023\Ont Project 2023\obj\Debug\Ont_Project_2023.Controls.UserControlDisplayModules.resources
