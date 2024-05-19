@@ -2,15 +2,15 @@
 
 [Uploading ONT Project Video 2023.zip…]()
 
-# Project Overview
-## Welcome to our project! This README will help you understand the purpose of our application and how it works in simple terms.
+## Project Overview
+Welcome to my project! This README will help you understand the purpose of the application and how it works in simple terms.
 
 ## What is This Project About?
 This project is a software application designed to manage various aspects of a university or educational institution. It helps in managing:
 
-**Users:** People who use the system, like students and lecturers.
-Modules: Courses or subjects offered by the institution.
-Assessments: Tests or exams given to students.
+**Users:** People who use the system, like administrators, students, and lecturers.
+**Modules:** Courses or subjects offered by the institution.
+**Assessments:** Tests or exams given to students.
 Types of Modules and Assessments: Categories to organize modules and assessments.
 
 ## Key Features
@@ -37,7 +37,7 @@ Types of Modules and Assessments: Categories to organize modules and assessments
 
 ## How It Works
 ### Connecting to the Database
-The application connects to a database where all the information is stored.
+The application connects to a database where all the information is stored. SQL
 
 ### Performing Operations
 You can perform various operations (like adding or updating data) through simple actions.
@@ -53,10 +53,14 @@ The system can fetch data and display it as needed, such as listing all students
 
 ## Screenshots
 Here are some screenshots of our application:
-
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
-![Screenshot 3](/path/to/screenshot3.png)
+## Login
+![Login](https://github.com/Aphelele-Marwarwa/My-Assignment-/assets/100202694/b7d9fb08-e8d1-4892-85ef-3155814e9492)
+## Landing Form For Administrator
+![Landing Form For Administrator](https://github.com/Aphelele-Marwarwa/My-Assignment-/assets/100202694/65c46327-d3e7-4f2c-b724-a67aa90ffcbe)
+### Landing Form For Lecturer
+![Landing Form For Lecturer ](https://github.com/Aphelele-Marwarwa/My-Assignment-/assets/100202694/79d0c114-d5f4-4d55-8b18-b5e170fc87f9)
+## Landing Form For Student
+![Landing Form For Student](https://github.com/Aphelele-Marwarwa/My-Assignment-/assets/100202694/6502496e-02a4-4a60-bd69-1ba88f6c2a1d)
 
 ## Who Can Use This?
 This application is designed for:
@@ -65,17 +69,11 @@ This application is designed for:
 - **Lecturers:** Educators who need to manage their courses and assessments.
 - **Students:** Individuals who want to view their modules and assessments.
 
-## Why Use This Application?
-- **Efficiency:** Makes managing educational data quick and easy.
-- **Organization:** Keeps all your information in one place.
-- **Accessibility:** Easy to use for anyone with basic computer skills.
-
-## Getting Started
-1. **Installation:** Follow the installation guide provided by the administrator.
-2. **Training:** Attend a brief training session to understand how to use the system.
-3. **Support:** Contact the support team if you have any questions or issues.
 
 ## Conclusion
-We hope this application makes managing your educational institution's data simpler and more efficient. If you have any questions, feel free to reach out for support!
+While the application effectively addresses various aspects of managing educational institutions, there might be occasional issues such as database connectivity problems. However, I am committed to providing support and resolving any issues promptly to ensure a smooth user experience.
 
-Thank you for using our application!
+I am experiencing a technical issue with the application. Specifically, it is not displaying the exact assessment for the student, which I am aware of how to resolve. However, I have encountered a complication. I previously had SQL Developer installed on my system, which I downloaded in February 2023, but I have since uninstalled it. Unfortunately, I am now unable to attach the database instance that I deleted to the new version of the application that I downloaded in 2024. Initially, the attachment was successful, but the application is now requiring the deleted database instance, which is no longer available. I kindly request assistance in resolving this issue
+# lesson : 
+
+## That broke thing you keep trying to put back together can't even compare with that beautiful thing that's waiting to be built
