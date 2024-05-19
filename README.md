@@ -62,6 +62,10 @@ Here are some screenshots of our application:
 ## Landing Form For Student
 ![Landing Form For Student](https://github.com/Aphelele-Marwarwa/My-Assignment-/assets/100202694/6502496e-02a4-4a60-bd69-1ba88f6c2a1d)
 
+## Technologies Used
+- **Programming Language:** C# Windows Forms App (.Net Framework)
+- **Database:** SQL Server
+
 ## Who Can Use This?
 This application is designed for:
 
